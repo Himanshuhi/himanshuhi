@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Himanshu yadav
  
-###Subtitle
+### Subtitle
 A passionate frontend developer from India
 
-###Work
+### Work
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning Backend technology
 - 👯 I’m looking to collaborate on website 
@@ -13,3 +13,11 @@ A passionate frontend developer from India
 <!-- 😄 Pronouns: ...-->
 <!-- ⚡ Fun fact: ...-->
 
+### Skills
+python *
+Html ***
+css ***
+js *
+
+### Social
+Github: Himanshuhi
