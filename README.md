@@ -14,10 +14,10 @@ A passionate frontend developer from India
 <!-- ⚡ Fun fact: ...-->
 
 ### Skills
-python *
-Html ***
-css ***
-js *
+python 
+Html 
+css 
+js 
 
 ### Social
 Github: Himanshuhi
