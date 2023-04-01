@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Himanshu yadav
+ 
+#Subtitle
+A passionate frontend developer from India
 
-<!--
-**Himanshuhi/himanshuhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Work
+- 🔭 I’m currently working on web development
+- 🌱 I’m currently learning Backend technology
+- 👯 I’m looking to collaborate on website 
+<!-- 🤔 I’m looking for help with ...-->
+- 💬 Ask me about html,css,js,python
+- 📫 How to reach me: YouTube 
+<!-- 😄 Pronouns: ...-->
+<!-- ⚡ Fun fact: ...-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
