@@ -7,9 +7,9 @@ A passionate frontend developer from India
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning Backend technology
 - 👯 I’m looking to collaborate on website 
-<!-- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about html,css,js,python
 - 📫 How to reach me: YouTube 
+<!-- 🤔 I’m looking for help with ...-->
 <!-- 😄 Pronouns: ...-->
 <!-- ⚡ Fun fact: ...-->
 
